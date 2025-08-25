@@ -1,4 +1,4 @@
-# Hi, I'm Paloma Canala-Echeverria 👋
+# Hola!, I'm Paloma 👋
 **Full-Stack Developer** | MERN Stack | Innovation & Entrepreneurship Enthusiast  
 
 💡 10+ years in innovation and R&D project management, bridging business strategy with software development. Passionate about building scalable web applications, delivering MVPs, and contributing to agile product teams.
@@ -38,14 +38,15 @@
 ![Project Badge](https://img.shields.io/badge/Full--Stack-MERN-blue?style=for-the-badge)
 - Developed a platform to manage the Seed Startup Program of **Valencia Innovation Capital & Startup Valencia**.  
 - Implemented **secure authentication with JWT**, RESTful API consumption, and deployed on **Vercel**.  
-- **Stack:** React, Node.js, Express, MongoDB  
+- **Stack:** React, Node.js, Express, MongoDB
+- ![Project ](https://img.shields.io/badge/Full--Stack-MERN-blue?style=for-the-badge)
 
 ---
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pcanalaecheverriag/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p.canalaecheverria@gmail.com)
 
 ---
 
