@@ -39,7 +39,11 @@
 - Developed a platform to manage the Seed Startup Program of **Valencia Innovation Capital & Startup Valencia**.  
 - Implemented **secure authentication with JWT**, RESTful API consumption, and deployed on **Vercel**.  
 - **Stack:** React, Node.js, Express, MongoDB
-- ![Project ](https://img.shields.io/badge/Full--Stack-MERN-blue?style=for-the-badge)
+  
+<p align="center">
+  <img src="https://i.imgur.com/QLOEAL6.png" alt="Seed Project Platform" width="35%" />
+</p>
+
 
 ---
 
